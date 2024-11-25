@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Task 1 Dynamic String Manipulation/cmake-build-debug/CMakeFiles/Task_1_Dynamic_String_Manipulation.dir
+C:/Users/pc/CLionProjects/Task 1 Dynamic String Manipulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Task 1 Dynamic String Manipulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
